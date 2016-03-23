@@ -7,7 +7,7 @@ public class Program {
 	}
 	public static void Welcome()
 	{
-		System.out.println("Hello World");
+		System.out.println("Hello class");
 	}
 
 }
